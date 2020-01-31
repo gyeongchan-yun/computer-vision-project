@@ -1,4 +1,4 @@
-# Computer Vision Term Project
+# 2019 Fall Computer Vision Term Project
 
 20195159 Gyeongchan Yun
 
@@ -21,7 +21,7 @@
     ```
     $ ./run.sh rbb
     ```
-   - FC-DenseNet103-RB
+  - FC-DenseNet103-RB
     ```
     $ ./run.sh rb
     ``` 
