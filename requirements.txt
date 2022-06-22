@@ -22,7 +22,7 @@ language-selector==0.1
 lxml==3.5.0
 Markdown==3.1.1
 matplotlib==3.0.3
-numpy==1.17.4
+numpy==1.22.0
 oauthlib==3.1.0
 opencv-python==4.1.2.30
 opt-einsum==3.1.0
